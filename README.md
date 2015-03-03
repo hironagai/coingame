@@ -1,2 +1,2 @@
 # coingame
-enchant.jsを使ったゲーム
+enchant.jsを使ったゲームです
